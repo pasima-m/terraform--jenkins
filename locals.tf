@@ -1,8 +1,8 @@
 locals {
   common_tags={
-    company = "jjtech"
-    owner = "jjtech DevOps Team"
-    team-email = "team-devops@jjtech.com"
+    company = "passy"
+    owner = "passy devops"
+    team-email = "passypet@gmail.com"
     time = formatdate("DD MMM YYYY hh:mm ZZZ", timestamp())    
   }
  
